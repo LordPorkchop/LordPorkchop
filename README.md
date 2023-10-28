@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LordPorkchop
-- 👀 I’m interested in Prpgramming
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning HTML & JavaScript
 - 💞️ I’m looking to collaborate on Python
 - 📫 Contact me via Discord: lord_porkchop#0
