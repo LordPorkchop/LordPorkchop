@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LordPorkchop
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Python Programming & Cyber Security, Kerbal Space Program
 - 🌱 I’m currently learning HTML & JavaScript
-- 💞️ I’m looking to collaborate on getting board games into Python (text-based and with UI)
+- 💞️ I’m looking to collaborate on Security Stuff
 - 📫 Contact me via Discord: lord_porkchop#0
 
 <!---
